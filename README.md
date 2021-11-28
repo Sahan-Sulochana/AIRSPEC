@@ -1,4 +1,4 @@
-# AIRSPEC
+# AIRSPEC: An IoT-empowered Air Quality Monitoring System integrated with a Machine Learning Framework to Detect and Predict defined Air Quality parameters
 
 ### **Problem statement**
 
