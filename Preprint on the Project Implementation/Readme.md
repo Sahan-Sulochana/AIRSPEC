@@ -5,7 +5,9 @@ The air that surrounds us is the cardinal source of respiration of all life-form
 
 If you find our work and/or this repository useful, please consider to cite.
 
-@article{DBLP:journals/corr/abs-2111-14125,
+```
+@article
+{DBLP:journals/corr/abs-2111-14125,
   author    = {Nuwan Bandara and
                Sahan Hettiarachchi and
                Phabhani Athukorala},
@@ -22,5 +24,4 @@ If you find our work and/or this repository useful, please consider to cite.
   biburl    = {https://dblp.org/rec/journals/corr/abs-2111-14125.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-
-[Navarro, Renee MD. "What is unconscious bias?" *University of California, San Francisco.* Accessed: October 20, 2017](https://diversity.ucsf.edu/resources/unconscious-bias)
+```
